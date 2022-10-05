@@ -1,0 +1,6 @@
+C:\Users\HUY\source\repos\Three_Layer\DTO_DienThoai\bin\Debug\DTO_DienThoai.dll
+C:\Users\HUY\source\repos\Three_Layer\DTO_DienThoai\bin\Debug\DTO_DienThoai.pdb
+C:\Users\HUY\source\repos\Three_Layer\DTO_DienThoai\obj\Debug\DTO_DienThoai.csproj.AssemblyReference.cache
+C:\Users\HUY\source\repos\Three_Layer\DTO_DienThoai\obj\Debug\DTO_DienThoai.csproj.CoreCompileInputs.cache
+C:\Users\HUY\source\repos\Three_Layer\DTO_DienThoai\obj\Debug\DTO_DienThoai.dll
+C:\Users\HUY\source\repos\Three_Layer\DTO_DienThoai\obj\Debug\DTO_DienThoai.pdb
